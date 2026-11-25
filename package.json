@@ -1,0 +1,13 @@
+{
+  "name": "domik-tv-sync",
+  "appName": "Домик · колонка вместе с ТВ",
+  "version": "1.0.0",
+  "description": "Колонка Google Nest играет звук YouTube синхронно с динамиками телевизора.",
+  "packageType": "mods",
+  "websiteURL": "https://youtube.com/tv",
+  "main": "userScript.js",
+  "serviceFile": "service.js",
+  "keys": [],
+  "author": "KRINSH",
+  "license": "MIT"
+}
